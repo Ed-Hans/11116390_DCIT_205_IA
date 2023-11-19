@@ -1,1 +1,217 @@
-11116390_DCIT205.CSS
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://www.nairaland.com/attachments/11697633_aa11662107ugugjpege01a7a62cd82dc96164f04433242e55f_jpeg2b54eed958100fe286eb67f18f191a47");
+  background-size: cover;
+  background-position: center; /* Center the image */
+}
+header {
+  margin-left: 0%;
+  background-color: rgb(8, 8, 218);
+  border-radius: 15px;
+  margin-top: 0px;
+  display: flexbox;
+}
+img {
+  border-radius: 0px;
+  width: 120px;
+  height: 120px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+h1 {
+  font: 1000;
+  font-weight: bolder;
+  font-stretch: expanded;
+  font-size: 50px;
+  padding-left: 0px;
+  padding-top: 20Spx;
+  margin-bottom: 2px;
+  text-align: center;
+}
+h2 {
+  margin-top: 0px;
+  font-size: 30px;
+  text-align: center;
+}
+
+nav :hover {
+  color: white;
+}
+.Home {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.Admissions {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.Internship {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 100px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.Research {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.Gallery {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.Academics {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.Gallery {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.About {
+  background-color: black;
+  color: rgb(141, 40, 40);
+  border: none;
+  border-radius: 15;
+  height: 30px;
+  width: 95px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+h4 {
+  font-size: 55px;
+  font-weight: 400;
+  text-align: center;
+
+  margin: 15px;
+  border-radius: 20px;
+  color: rgb(241, 151, 33);
+}
+P1 {
+  text-align: justify;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(26, 245, 212);
+}
+h5 {
+  font-size: 40px;
+  font-weight: 200;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  color: rgb(241, 151, 33);
+}
+P2 {
+  text-align: justify;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  color: rgb(26, 245, 212);
+}
+/* h6 {
+  font-size: 40px;
+  font-weight: 200;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  color: rgb(241, 151, 33);
+} */
+p3 {
+  text-align: justify;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  color: rgb(26, 245, 212);
+}
+/* h7 {
+  font-size: 40px;
+  font-weight: 200;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  color: rgb(241, 151, 33);
+} */
+p4 {
+  text-align: justify;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  color: rgb(26, 245, 212);
+}
+.sectionA {
+  font-size: 40px;
+  margin-top: 50px;
+  font-weight: bold;
+}
+.sectionB {
+  font-size: 60px;
+  margin-top: 50px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.sectionC {
+  font-size: 60px;
+  /* margin-top: 70px; */
+  font-weight: 300;
+}
+.sectionD {
+  font-size: 60px;
+  margin-top: 50px;
+  font-weight: bold;
+  font: 20px;
+}
