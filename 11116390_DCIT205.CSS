@@ -1,4 +1,4 @@
-body {
+#Homebg {
   margin: 0;
   padding: 0;
   background-image: url("https://www.nairaland.com/attachments/11697633_aa11662107ugugjpege01a7a62cd82dc96164f04433242e55f_jpeg2b54eed958100fe286eb67f18f191a47");
@@ -39,7 +39,7 @@ h2 {
   text-align: center;
 }
 
-nav :hover {
+button :hover {
   color: white;
 }
 .Home {
@@ -47,8 +47,8 @@ nav :hover {
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
-  width: 95px;
+  height: 40px;
+  width: 100px;
   border-radius: 2px;
   cursor: pointer;
   margin-left: 10px;
@@ -58,30 +58,31 @@ nav :hover {
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
-  width: 95px;
+  height: 40px;
+  width: 110px;
   border-radius: 2px;
   cursor: pointer;
   margin-left: 10px;
 }
-.Internship {
+.Internships {
   background-color: black;
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
-  width: 100px;
+  height: 40px;
+  width: 150px;
   border-radius: 2px;
   cursor: pointer;
   margin-left: 10px;
+  text-decoration: none;
 }
 .Research {
   background-color: black;
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
-  width: 95px;
+  height: 40px;
+  width: 100px;
   border-radius: 2px;
   cursor: pointer;
   margin-left: 10px;
@@ -91,7 +92,7 @@ nav :hover {
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
+  height: 40px;
   width: 95px;
   border-radius: 2px;
   cursor: pointer;
@@ -103,8 +104,8 @@ nav :hover {
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
-  width: 95px;
+  height: 40px;
+  width: 105px;
   border-radius: 2px;
   cursor: pointer;
   margin-left: 10px;
@@ -114,7 +115,7 @@ nav :hover {
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
+  height: 40px;
   width: 95px;
   border-radius: 2px;
   cursor: pointer;
@@ -126,28 +127,33 @@ nav :hover {
   color: rgb(141, 40, 40);
   border: none;
   border-radius: 15;
-  height: 30px;
+  height: 40px;
   width: 95px;
   border-radius: 2px;
   cursor: pointer;
   margin-left: 10px;
+}
+a {
+  text-decoration: none;
+  font-size: medium;
+}
+a:hover {
+  color: rgb(126, 165, 42);
+  cursor: progress;
+}
+li {
+  list-style-type: none;
 }
 
 h4 {
   font-size: 55px;
   font-weight: 400;
   text-align: center;
-
   margin: 15px;
   border-radius: 20px;
   color: rgb(241, 151, 33);
 }
-P1 {
-  text-align: justify;
-  font-size: 30px;
-  font-family: "Times New Roman", Times, serif;
-  color: rgb(26, 245, 212);
-}
+
 h5 {
   font-size: 40px;
   font-weight: 200;
@@ -155,63 +161,108 @@ h5 {
   margin-top: 20px;
   margin-bottom: 0px;
   color: rgb(241, 151, 33);
+  padding-left: 10px;
 }
-P2 {
+.p2 {
   text-align: justify;
   font-size: 30px;
   font-family: "Times New Roman", Times, serif;
-  margin-top: 20px;
-  color: rgb(26, 245, 212);
+  margin-top: 10px;
+  color: rgb(255, 255, 255);
+  padding: 0 15px 0 10px;
 }
-/* h6 {
-  font-size: 40px;
-  font-weight: 200;
-  text-align: left;
-  margin-top: 20px;
-  margin-bottom: 0px;
-  color: rgb(241, 151, 33);
-} */
-p3 {
-  text-align: justify;
-  font-size: 30px;
-  font-family: "Times New Roman", Times, serif;
-  margin-top: 20px;
-  color: rgb(26, 245, 212);
-}
-/* h7 {
-  font-size: 40px;
-  font-weight: 200;
-  text-align: left;
-  margin-top: 20px;
-  margin-bottom: 0px;
-  color: rgb(241, 151, 33);
-} */
-p4 {
-  text-align: justify;
-  font-size: 30px;
-  font-family: "Times New Roman", Times, serif;
-  margin-top: 20px;
-  color: rgb(26, 245, 212);
-}
+
 .sectionA {
   font-size: 40px;
   margin-top: 50px;
   font-weight: bold;
+  color: rgb(255, 255, 255);
+  padding-left: 20px;
 }
 .sectionB {
   font-size: 60px;
   margin-top: 50px;
   font-weight: bold;
   margin-bottom: 50px;
+  color: rgb(255, 255, 255);
+  padding-left: 20px;
 }
 .sectionC {
   font-size: 60px;
-  /* margin-top: 70px; */
+  margin-top: 15px;
   font-weight: 300;
+  color: rgb(255, 255, 255);
+  padding-left: 20px;
 }
-.sectionD {
-  font-size: 60px;
+.sectionD a {
+  font-size: 70px;
   margin-top: 50px;
   font-weight: bold;
-  font: 20px;
+  /* font-size: medium; */
+  color: rgb(18, 158, 65);
+  text-align: center;
+}
+.sectionD a:hover {
+  color: blue;
+  cursor: progress;
+}
+
+#Admission-body {
+  background-color: aquamarine;
+}
+.AD-h1 {
+  color: black;
+  font-size: 150px;
+}
+.AD-p1 {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-display: inherit;
+  text-align: center;
+  margin-top: 2px;
+  padding: 0 100px 0 100px;
+}
+.AD-p1 a {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-display: inherit;
+  text-align: center;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+.AD-h2 {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-display: inherit;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0px;
+}
+.AD-ul1 {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  margin-top: 2px;
+  padding-left: 250px;
+  margin-top: 20px;
+}
+.AD-p2 {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  font-style: oblique;
+  font-weight: 700;
+  font-size: 40px;
+}
+.AD-p2 a {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+.AD-ol1 {
+  font-size: 35px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: inherit;
+  margin-top: 2px;
+  padding-left: 450px;
+  margin-top: 20px;
+  padding-right: 450px;
 }
