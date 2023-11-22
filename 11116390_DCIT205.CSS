@@ -135,8 +135,8 @@ button :hover {
 }
 #header a {
   text-decoration: none;
-  font-size: medium;
-  color: beige;
+  font-size: 35;
+  color: rgb(138, 138, 49);
 }
 a:hover {
   color: rgb(42, 65, 165);
@@ -429,4 +429,20 @@ nav a:hover {
 }
 .footer-p {
   font-size: 74px;
+}
+
+#Internship-head {
+  background-image: url(https://th.bing.com/th/id/OIP.Da25hP4-5VCfPfHbczbFdgHaE8?w=265&h=180&c=7&r=0&o=5&pid=1.7);
+
+  font-size: 50px;
+  background-size: contain;
+}
+.Int-list {
+  font-size: 35px;
+  margin-left: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.Int-list li {
+  list-style-type: circle;
 }
