@@ -458,10 +458,16 @@ nav a:hover {
   background-size: contain;
   padding-left: 0px;
 }
+#ShortCoursesAppl-bg {
+  background-image: url(img/short.coursesbg.jpg);
+  background-position: center;
+  background-size: contain;
+}
 fieldset {
   padding: 20px;
   margin: 0 15px 0 15px;
   border: 8px solid blue;
+  margin: auto;
 }
 form {
   width: 200px;
@@ -485,7 +491,9 @@ input {
   display: block;
   font-size: 30px;
   border-radius: 6px;
-
+  font-weight: 500;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   border-color: rgb(115, 202, 202);
 }
 .submit {
@@ -499,6 +507,36 @@ input {
   border: 2px solid;
   border-color: black;
 }
-/* .submit :hover {
- 
-} */
+.submit:hover {
+  background-color: aquamarine;
+}
+.SC {
+  font-size: 46px;
+  font-weight: 500;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  color: rgb(241, 151, 33);
+  padding-left: 10px;
+}
+.SC-list {
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 40px;
+
+  margin-bottom: 150px;
+}
+.SC-list li {
+  list-style-type: disc;
+  margin-bottom: 15px;
+}
+#SCSec1 {
+  background-image: url(img/ShortCsec1.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+#SCP-Body {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
