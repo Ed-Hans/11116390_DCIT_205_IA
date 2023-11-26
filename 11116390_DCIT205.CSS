@@ -1,15 +1,16 @@
 #Homebg {
   margin: 0;
   padding: 0;
-  background-image: url("https://www.nairaland.com/attachments/11697633_aa11662107ugugjpege01a7a62cd82dc96164f04433242e55f_jpeg2b54eed958100fe286eb67f18f191a47");
-  background-size: cover;
+  background-image: url(img/admissions.jpg);
+  background-size: contain;
   background-position: center;
 }
 header {
   margin-left: 0%;
-  background-color: rgb(8, 8, 218);
+  background-image: url(img/Universities-in-Ghana-e1569564480242-668x430.jpg);
   border-radius: 15px;
   margin-top: 0px;
+  background-size: cover;
   display: flexbox;
 }
 img {
