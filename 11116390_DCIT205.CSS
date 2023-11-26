@@ -646,3 +646,20 @@ input {
   margin-top: 1px;
   line-height: 0.1px;
 }
+.Gal-image {
+  display: flexbox;
+}
+.Gal-image img {
+  margin-bottom: 20px;
+  height: 500px;
+  width: 460px;
+  padding: 10px;
+  border-radius: 15px;
+}
+video {
+  width: 100%;
+  height: 50pxs;
+  margin-bottom: 120px;
+  padding: 20px;
+  padding-bottom: 30px;
+}
