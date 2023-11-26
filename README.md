@@ -1,7 +1,7 @@
 # DCIT_205_IA
-# DCIT_205_IA
+# EDWARD KOFFI HANS ID: 11116390
 
-EDWARD KOFFI HANS ID: 11116390
+
 
 UNIVERSITY OF GHANA UNOFFICIAL WEBSITE
 
@@ -41,15 +41,40 @@ Internships: Learn about internship opportunities and industry collaborations.
 
                        
                        ACADEMICS PAGE
-                       ABOUR PAGE
-                       GALLERY PAGE 
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/a08f8543-cbe9-4549-a299-0fa2041c6589)
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/27794a05-2146-4f97-831e-55dd949e3eb3)
+
                        
+                       
+                       ABOUR PAGE
+  ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/dd300524-588d-445a-b107-ab17c991f1ab)
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/f589b969-9c89-4700-a976-52f075aa5c7d)
+
+                       GALLERY PAGE 
+  ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/357793e7-2bf3-47dd-bed6-7e62da15041f)
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/6793ea1a-d52a-4f28-99ae-0e699fad3619)
+             
 ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/613744af-0bab-4b69-bfc8-57793cdf169a)
 
                        INTERNSHIP PAGE
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/578eee9e-5f3a-474e-a248-030c65408066)
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/e1534359-ed76-474f-b8e4-9cf69e492f41)
+
+                       
                        UNDERGRADUATE APPLICATION PAGE
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/1a099b06-c731-43d1-8af3-1856f3610243)
+![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/2a543989-709a-490c-ac88-e245066f4d67)
+
+                       
                        GRADUATE APPLICATION PAGE
+  ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/45830c01-2e36-4a00-83a9-e252b956f1c3)
+  ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/39c72482-98e7-403b-aff7-026c0bf3370d)
+  ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/6608a85e-fc56-458b-a3f9-865807b432a0)
+
+                   
                     SHORT COURSES APPLICATION PAGE
+  ![image](https://github.com/Ed-Hans/11116390_DCIT_205_IA/assets/149014598/e6cd1e34-8609-4af1-b9a2-59f239acd656)
+                  
                 
                   Technologies Used
 HTMl, CSS
